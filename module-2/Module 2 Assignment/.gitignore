@@ -1,0 +1,32 @@
+# Compiled source files
+*.class
+
+# Logs
+*.log
+
+# Build directories
+/build/
+/target/
+/out/
+
+# IDE files
+/.idea/
+/*.iml
+*.swp
+*.bak
+*.tmp
+*.sublime-workspace
+*.sublime-project
+/.vscode/
+/.project
+/.classpath
+/.settings/
+
+# Tomcat-specific deployment
+*.war
+*.ear
+*.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
