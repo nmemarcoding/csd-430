@@ -1,0 +1,49 @@
+30-May-2025 09:52:42.494 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.7
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 7 2025 14:55:59 UTC
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.7.0
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            15.5
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-May-2025 09:52:42.496 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+30-May-2025 09:52:42.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+30-May-2025 09:52:42.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-May-2025 09:52:42.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment
+30-May-2025 09:52:42.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment
+30-May-2025 09:52:42.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/conf/logging.properties
+30-May-2025 09:52:42.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-May-2025 09:52:42.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-May-2025 09:52:42.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --enable-native-access=ALL-UNNAMED
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment
+30-May-2025 09:52:42.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/temp
+30-May-2025 09:52:42.518 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/nimamemarzadeh/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-May-2025 09:52:42.765 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:52:42.790 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [465] milliseconds
+30-May-2025 09:52:42.823 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-May-2025 09:52:42.823 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.7]
+30-May-2025 09:52:42.832 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/MovieSceneTable]
+30-May-2025 09:52:43.102 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/MovieSceneTable] has finished in [269] ms
+30-May-2025 09:52:43.103 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/docs]
+30-May-2025 09:52:43.129 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/docs] has finished in [26] ms
+30-May-2025 09:52:43.129 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/manager]
+30-May-2025 09:52:43.175 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/manager] has finished in [45] ms
+30-May-2025 09:52:43.175 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/examples]
+30-May-2025 09:52:43.388 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/examples] has finished in [213] ms
+30-May-2025 09:52:43.389 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/ROOT]
+30-May-2025 09:52:43.406 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/ROOT] has finished in [17] ms
+30-May-2025 09:52:43.406 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/host-manager]
+30-May-2025 09:52:43.424 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-2/Module 2 Assignment/webapps/host-manager] has finished in [18] ms
+30-May-2025 09:52:43.428 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:52:43.441 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [650] milliseconds
+30-May-2025 09:53:49.564 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-May-2025 09:53:49.565 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:53:49.568 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-May-2025 09:53:49.585 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:53:49.594 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

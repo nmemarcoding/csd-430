@@ -329,3 +329,8 @@
 30-May-2025 09:43:16.538 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/nimamemarzadeh/Desktop/believue/serverside Dev/csd-430/module-1/apache-tomcat-11.0.7/webapps/host-manager] has finished in [18] ms
 30-May-2025 09:43:16.541 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 30-May-2025 09:43:16.554 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [706] milliseconds
+30-May-2025 09:47:16.046 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-May-2025 09:47:16.046 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:47:16.050 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-May-2025 09:47:16.073 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-May-2025 09:47:16.084 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
