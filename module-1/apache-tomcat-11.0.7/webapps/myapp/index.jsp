@@ -1,3 +1,7 @@
+<!-- Name: Nima Memarzadeh -->
+<!-- Date: 05/30/2025 -->
+<!--  Module 1 Assignment - Project Setup and Repository -->
+
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

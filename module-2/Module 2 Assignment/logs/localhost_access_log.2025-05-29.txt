@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [29/May/2025:09:08:58 -0700] "GET / HTTP/1.1" 200 11433
+0:0:0:0:0:0:0:1 - - [29/May/2025:09:09:06 -0700] "GET /MovieSceneTable/ HTTP/1.1" 200 2407
+0:0:0:0:0:0:0:1 - - [29/May/2025:09:09:06 -0700] "GET /MovieSceneTable/styles.css HTTP/1.1" 200 1646
+0:0:0:0:0:0:0:1 - - [29/May/2025:09:09:08 -0700] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 807
