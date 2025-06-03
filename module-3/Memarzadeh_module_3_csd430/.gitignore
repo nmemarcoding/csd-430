@@ -1,6 +1,14 @@
-work
+# Ignore Tomcat server directories and logs
+bin/
+conf/
+lib/
+logs/
+temp/
+work/
 
-# Include logs directory but ignore its contents
-logs/*
-# But don't ignore the .gitignore file in the logs directory
-!logs/.gitkeep
+# Ignore compiled Java class files
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
