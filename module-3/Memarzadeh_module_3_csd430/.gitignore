@@ -1,2 +1,6 @@
 work
-logs
+
+# Include logs directory but ignore its contents
+logs/*
+# But don't ignore the .gitignore file in the logs directory
+!logs/.gitkeep
