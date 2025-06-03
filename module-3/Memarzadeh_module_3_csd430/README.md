@@ -75,5 +75,4 @@ This application consists of:
    - Ensure all required fields are completed
    - Check that the date format is valid
 
-## File Structure
-Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
+
