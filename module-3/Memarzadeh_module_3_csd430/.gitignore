@@ -12,3 +12,10 @@ work/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+BUILDING.txt
+CONTRIBUTING.md
+LICENSE
+NOTICE
+RELEASE-NOTES
+RUNNING.txt
