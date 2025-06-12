@@ -1,3 +1,7 @@
+<!-- Name: Nima Memarzadeh -->
+<!-- Date: 06/012/2025 -->
+<!-- Module 4 Assignment - JavaBean -->
+
 <%-- 
     Description:
     This JSP file creates and displays a list of key scenes from the movie Inception using JavaBeans.
