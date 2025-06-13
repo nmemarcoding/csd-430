@@ -78,6 +78,7 @@
         // Set the current bean into request scope so we can use jsp:getProperty
         request.setAttribute("bean", s);
 %>
+    <!-- Use the bean to display scene information -->
     <jsp:useBean id="bean" class="scenes.SceneBean" scope="request" />
     <tr>
         <td><jsp:getProperty name="bean" property="sceneNumber" /></td>
